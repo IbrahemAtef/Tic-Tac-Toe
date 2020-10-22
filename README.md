@@ -20,9 +20,7 @@ npm run build
 
 ### To try the game
 
-```
 https://tic-tac-toe-game-play.herokuapp.com/
-```
 
 ### Customize configuration
 
